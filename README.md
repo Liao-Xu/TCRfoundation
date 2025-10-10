@@ -1,5 +1,11 @@
 # TCRfoundation
 
+[![Documentation Status](https://readthedocs.org/projects/tcrfoundation/badge/?version=latest)](https://tcrfoundation.readthedocs.io/en/latest/?badge=latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+**A multimodal foundation model for single-cell immune profiling**
+
 **A multimodal foundation model for single-cell immune profiling**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

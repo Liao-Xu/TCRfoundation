@@ -17,7 +17,7 @@ setup(
     author_email="xl3514@cumc.columbia.edu",
     description="A multimodal foundation model for T cell receptor and transcriptome analysis",
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/TCRfoundation",
+    url="https://github.com/Liao-Xu/TCRfoundation",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Liao
+    given-names: Xu
+    email: xl3514@cumc.columbia.edu
+title: "TCRfoundation: A Multimodal Foundation Model for Single-Cell Immune Profiling"
+version: 0.1.0
+date-released: 2025-10-10
+url: "https://github.com/Liao-Xu/TCRfoundation"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Liao
+      given-names: Xu
+  title: "TCRfoundation: A Multimodal Foundation Model for Single-Cell Immune Profiling"
+  year: 2025

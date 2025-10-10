@@ -20,3 +20,7 @@ results/
 # OS files
 .DS_Store
 Thumbs.db
+# Model checkpoints (large files)
+*.pt
+*.pth
+tutorials/fine_tune_models/
