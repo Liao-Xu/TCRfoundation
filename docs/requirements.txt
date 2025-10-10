@@ -1,0 +1,31 @@
+# Sphinx and theme
+sphinx>=4.0.0
+furo
+sphinx-rtd-theme
+
+# Markdown and notebook support
+myst-parser>=0.18.0
+myst-nb>=0.17.0
+
+# Extensions
+sphinx-autodoc-typehints
+sphinx-copybutton
+
+# Math support
+sphinx-math-dollar
+
+# For rendering notebooks
+ipykernel
+nbformat
+nbconvert
+
+# Your package dependencies (needed for autodoc)
+torch>=1.10.0
+numpy>=1.20.0
+pandas>=1.3.0
+scanpy>=1.9.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+tqdm>=4.62.0
+anndata>=0.8.0
