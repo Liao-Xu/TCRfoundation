@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Docs build output
+docs/build/
+
+# Data and results (if large)
+data/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
