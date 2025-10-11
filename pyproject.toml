@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tcrfoundation"
+version = "0.1.2"
+authors = [
+    {name = "Xu Liao", email = "xl3514@cumc.columbia.edu"}
+]
+description = "A multimodal foundation model for T cell receptor and transcriptome analysis"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+]
+dependencies = [
+    "torch>=1.10.0",
+    "numpy>=1.20.0",
+    "pandas>=1.3.0",
+    "scanpy>=1.9.0",
+    "scikit-learn>=1.0.0",
+    "matplotlib>=3.5.0",
+    "seaborn>=0.11.0",
+    "tqdm>=4.62.0",
+    "anndata>=0.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=6.2.0",
+    "jupyter>=1.0.0",
+    "black>=21.0",
+]
+docs = [
+    "sphinx>=4.0.0",
+    "furo",
+    "myst-parser>=0.18.0",
+    "myst-nb>=0.17.0",
+    "sphinx-autodoc-typehints",
+    "sphinx-copybutton",
+    "ipykernel",
+    "nbformat",
+]
+
+[project.urls]
+Homepage = "https://github.com/Liao-Xu/TCRfoundation"
+Documentation = "https://tcrfoundation.readthedocs.io"
+Repository = "https://github.com/Liao-Xu/TCRfoundation"
+Issues = "https://github.com/Liao-Xu/TCRfoundation/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tcrfoundation*"]
+exclude = ["tests*"]
