@@ -2,6 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/tcrfoundation/badge/?version=latest)](https://tcrfoundation.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/tcrfoundation.svg)](https://badge.fury.io/py/tcrfoundation)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/tcrfoundation?period=total&units=ABBREVIATION&left_color=GREEN&right_color=BRIGHTGREEN&left_text=downloads)](https://pepy.tech/projects/tcrfoundation)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
