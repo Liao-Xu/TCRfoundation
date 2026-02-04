@@ -90,5 +90,5 @@ Complete Jupyter notebook tutorials are available:
 ## Contact
 
 - **Author**: Xu Liao
-- **Email**: xl3514@cumc.columbia.edu
+- **Email**: xu.smooth.liao@gmail.com
 - **GitHub**: [https://github.com/Liao-Xu/TCRfoundation](https://github.com/Liao-Xu/TCRfoundation)
