@@ -11,7 +11,7 @@
 ## Overview
 
 TCRfoundation integrates gene expression and TCR sequences (α and β chains) from paired single-cell measurements through self-supervised pretraining with masked reconstruction and cross-modal contrastive learning.
-![Graphical Abstract](docs/figures/abstract.png)
+![Graphical Abstract](docs/figures/abstract.pdf)
 
 ### Input and Pretraining Architecture
 
